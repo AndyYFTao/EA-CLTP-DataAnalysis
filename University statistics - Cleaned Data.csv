@@ -50,6 +50,18 @@ US,UIUC,40.102,-88.2272,75,65.9,48,72.9,38,35.8,Un;post,2018,,6295,1030
 US,Purdue,,,,,,,,,Undergrad,2018,32672,,
 US,Purdue,,,,,,,,,Post-baccalaureate,2018,10739,,
 US,Purdue,40.4237,-86.9212,111,57.8,88,63.1,72,28.5,?,2014,,4617,920
+US,Boston,,,,,,,,,Undergrad,2019,17286,,
+US,Boston,,,,,,,,,Post-baccalaureate,2019,15997,,
+US,Boston,42.3505,-71.1054,98,60.5,61,68.5,76,28.3,Un;post,2018,,3802,640
+US,Duke,,,,,,,,,Undergrad,2019,6526,,
+US,Duke,,,,,,,,,Post-baccalaureate,2019,9108,,
+US,Duke,36.0014,-78.9382,25,83.8,20,84,28,38.6,Un;post,2018,,1585,340
+US,Caltech,,,,,,,,,Undergrad,2019,938,,
+US,Caltech,,,,,,,,,Post-baccalaureate,2019,1299,,
+US,Caltech,34.1377,-118.1253,5,96.9,2,94.5,9,58.6,Un;post,2018,,195,50
+US,Georgetown,,,,,,,,,Undergrad,2019,7459,,
+US,Georgetown,,,,,,,,,Post-baccalaureate,2019,11745,,
+US,Georgetown,38.9076,-77.0723,226,40.1,102,61.9,350,NA,Un;post,2018,,1154,400
 US,Ohio State,,,,,,,,,Undergrad,2018,46820,,
 US,Ohio State,,,,,,,,,Post-baccalaureate,2018,14350,,
 US,Ohio State,40.0068,-83.0306,101,59.5,70,66.1,100,26,Un;post,2018,,4150,1370
@@ -73,7 +85,7 @@ UK,LSE,,,,,,,,,Post-baccalaureate,2018,5983,,
 UK,LSE,51.5144,-0.1165,44,77,27,81.3,175,NA,Un;post,2018,,1482,150
 UK,KCL,,,,,,,,,Undergrad,?,18500,,
 UK,KCL,,,,,,,,,Post-baccalaureate,?,12800,,
-UK,KCL,51.5115,-0.116,33,80.5,36,75.7,51,32.4,Undergrad,2015,,1295,490
+UK,KCL,51.5115,-0.116,33,80.5,36,75.7,51,32.4,Undergrad,2015,,2191,490
 UK,Imperial,,,,,,,,,Undergrad,2018,10054,,
 UK,Imperial,,,,,,,,,Post-baccalaureate,2018,7514,,
 UK,Imperial,51.4988,-0.1749,9,94.1,10,89.8,23,41.6,Un;post,2018,,2400,330
