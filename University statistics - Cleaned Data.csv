@@ -1,217 +1,217 @@
-Country,School,Latitude,Longitude,2020 QS Ranking,2020 QS Score,2020 THE Ranking,2020 THE Score,2019 ARWU Ranking,2019 ARWU Score,System,Date,Total student number,Overseas Chinese student number,Domestic Chinese student number
-US,US Total,,,,,,,,,Undergrad,2018,21900000,,
-US,US Total,,,,,,,,,Post-baccalaureate,2016,2972000,,
-US,US Total,,,,,,,,,Un;post,2019,,282276,587200
-US,Stanford,,,,,,,,,Undergrad,2019,6996,,
-US,Stanford,,,,,,,,,Post-baccalaureate,2019,9390,,
-US,Stanford,37.4275,-122.1697,2,98.4,4,94.3,2,75.1,Un;post,2018,,1255,360
-US,MIT,,,,,,,,,Undergrad,2019,4530,,
-US,MIT,,,,,,,,,Post-baccalaureate,2019,6990,,
-US,MIT,42.3601,-71.0942,1,100,5,93.6,4,69,Un;post,2018,,839,250
-US,Yale,,,,,,,,,Undergrad,2019,5964,,
-US,Yale,,,,,,,,,Post-baccalaureate,2019,7469,,
-US,Yale,41.3163,-72.9223,17,87.7,8,91.7,11,50.8,Un;post,2018,,799,290
-US,NYU,,,,,,,,,Undergrad,2019,26733,,
-US,NYU,,,,,,,,,Post-baccalaureate,2019,25000,,
-US,NYU,40.7295,-73.9965,39,78.8,29,81.1,30,38.1,Un;post,2018,,5632,1020
-US,Harvard,,,,,,,,,Undergrad,2019,6700,,
-US,Harvard,,,,,,,,,Post-baccalaureate,2019,15250,,
-US,Harvard,42.377,-71.1167,3,97.4,7,93,1,100,Un;post,2018,,1301,470
-US,Berkeley,,,,,,,,,Undergrad,2019,30853,,
-US,Berkeley,,,,,,,,,Post-baccalaureate,2019,11666,,
-US,Berkeley,37.8719,-122.2585,28,82.6,13,88.3,5,67.9,Un;post,2018,,2909,910
-US,Columbia,,,,,,,,,Undergrad,2019,9001,,
-US,Columbia,,,,,,,,,Post-baccalaureate,2019,16217,,
-US,Columbia,40.8075,-73.9626,18,87.4,16,87,8,59.1,Un;post,2018,,5228,520
-US,UCLA,,,,,,,,,Undergrad,2019,31568,,
-US,UCLA,,,,,,,,,Post-baccalaureate,2019,12960,,
-US,UCLA,34.0689,-118.4452,35,80.4,17,86.8,11,50.8,Un;post,2018,,3406,960
-US,Cornell,,,,,,,,,Undergrad,2019,15043,,
-US,Cornell,,,,,,,,,Post-baccalaureate,2019,6284,,
-US,Cornell,42.4534,-76.4735,14,89.3,19,85.1,13,49.8,Un;post,2018,,2221,460
-US,Brown,,,,,,,,,Undergrad,2019,6752,,
-US,Brown,,,,,,,,,Post-baccalaureate,2019,2584,,
-US,Brown,41.8268,-71.4025,57,71.5,53,70,84,27.6,Un;post,2018,,621,200
-US,Princeton,,,,,,,,,Undergrad,2019,5267,,
-US,Princeton,,,,,,,,,Post-baccalaureate,2019,2946,,
-US,Princeton,40.3431,-74.6551,13,90.9,6,93.2,6,60,Un;post,2018,,452,170
-US,Dartmouth,,,,,,,,,Undergrad,2019,4400,,
-US,Dartmouth,,,,,,,,,Post-baccalaureate,2019,2100,,
-US,Dartmouth,43.7044,-72.2887,207,43.1,94,62.4,350,NA,Un;post,2018,,452,140
-US,Penn,,,,,,,,,Undergrad,2019,10234,,
-US,Penn,,,,,,,,,Post-baccalaureate,2019,14803,,
-US,Penn,39.9522,-75.1932,15,88.9,11,89.6,17,47.3,Un;post,2018,,2030,530
-US,USC,,,,,,,,,Undergrad,2019,20500,,
-US,USC,,,,,,,,,Post-baccalaureate,2019,28000,,
-US,USC,34.0224,-118.2851,129,53.1,62,68.1,55,31.7,Un;post,2018,,5480,1040
-US,UIUC,,,,,,,,,Undergrad,2018,33673,,
-US,UIUC,,,,,,,,,Post-baccalaureate,2018,15666,,
-US,UIUC,40.102,-88.2272,75,65.9,48,72.9,38,35.8,Un;post,2018,,6295,1030
-US,Purdue,,,,,,,,,Undergrad,2018,32672,,
-US,Purdue,,,,,,,,,Post-baccalaureate,2018,10739,,
-US,Purdue,40.4237,-86.9212,111,57.8,88,63.1,72,28.5,?,2014,,4617,920
-US,Boston,,,,,,,,,Undergrad,2019,17286,,
-US,Boston,,,,,,,,,Post-baccalaureate,2019,15997,,
-US,Boston,42.3505,-71.1054,98,60.5,61,68.5,76,28.3,Un;post,2018,,3802,640
-US,Duke,,,,,,,,,Undergrad,2019,6526,,
-US,Duke,,,,,,,,,Post-baccalaureate,2019,9108,,
-US,Duke,36.0014,-78.9382,25,83.8,20,84,28,38.6,Un;post,2018,,1585,340
-US,Caltech,,,,,,,,,Undergrad,2019,938,,
-US,Caltech,,,,,,,,,Post-baccalaureate,2019,1299,,
-US,Caltech,34.1377,-118.1253,5,96.9,2,94.5,9,58.6,Un;post,2018,,195,50
-US,Georgetown,,,,,,,,,Undergrad,2019,7459,,
-US,Georgetown,,,,,,,,,Post-baccalaureate,2019,11745,,
-US,Georgetown,38.9076,-77.0723,226,40.1,102,61.9,350,NA,Un;post,2018,,1154,400
-US,Ohio State,,,,,,,,,Undergrad,2018,46820,,
-US,Ohio State,,,,,,,,,Post-baccalaureate,2018,14350,,
-US,Ohio State,40.0068,-83.0306,101,59.5,70,66.1,100,26,Un;post,2018,,4150,1370
-US,Michigan State,,,,,,,,,Undergrad,2019,39176,,
-US,Michigan State,,,,,,,,,Post-baccalaureate,2019,10633,,
-US,Michigan State,42.7018,-84.4822,144,51.1,84,63.9,125,NA,Un;post,2018,,4412,1100
-UK,UK Total,,,,,,,,,Undergrad,2019,1800000,,
-UK,UK Total,,,,,,,,,Post-baccalaureate,2019,590000,,
-UK,UK Total,,,,,,,,,Un;post,2019,,120385,28200
-UK,Oxford,,,,,,,,,Undergrad,2018,11930,,
-UK,Oxford,,,,,,,,,Post-baccalaureate,2018,11813,,
-UK,Oxford,51.7548,-1.2544,4,97.2,1,95.4,7,59.7,Un;post,2018,,991,190
-UK,Cambridge,,,,,,,,,Undergrad,2019,12354,,
-UK,Cambridge,,,,,,,,,Post-baccalaureate,2019,10893,,
-UK,Cambridge,52.2043,0.1149,7,95,3,94.4,3,72.3,Un;post,2019,,1464,220
-UK,UCL,,,,,,,,,Undergrad,2019,19994,,
-UK,UCL,,,,,,,,,Post-baccalaureate,2019,23842,,
-UK,UCL,51.5246,-0.134,8,94.8,15,87.1,15,47.9,Un;post,2019,,9930,670
-UK,LSE,,,,,,,,,Undergrad,2018,5348,,
-UK,LSE,,,,,,,,,Post-baccalaureate,2018,5983,,
-UK,LSE,51.5144,-0.1165,44,77,27,81.3,175,NA,Un;post,2018,,1482,150
-UK,KCL,,,,,,,,,Undergrad,?,18500,,
-UK,KCL,,,,,,,,,Post-baccalaureate,?,12800,,
-UK,KCL,51.5115,-0.116,33,80.5,36,75.7,51,32.4,Undergrad,2015,,2191,490
-UK,Imperial,,,,,,,,,Undergrad,2018,10054,,
-UK,Imperial,,,,,,,,,Post-baccalaureate,2018,7514,,
-UK,Imperial,51.4988,-0.1749,9,94.1,10,89.8,23,41.6,Un;post,2018,,2400,330
-UK,Exeter,,,,,,,,,Undergrad,2019,19764,,
-UK,Exeter,,,,,,,,,Post-baccalaureate,2019,5499,,
-UK,Exeter,50.7371,-3.5351,163,48.1,146,57.4,175,NA,Un;post,2013,,2016,90
-UK,Sheffield,,,,,,,,,Undergrad,2018,29666,,
-UK,Sheffield,,,,,,,,,Post-baccalaureate,2018,10492,,
-UK,Sheffield,53.3809,-1.4879,78,64.2,117,60.1,125,NA,Un;post,2019,,5874,230
-UK,York,,,,,,,,,Undergrad,2019,13690,,
-UK,York,,,,,,,,,Post-baccalaureate,2019,5235,,
-UK,York,53.9461,-1.0518,148,50.5,128,58.9,350,NA,Un;post,?,,2065,120
-UK,Birmingham,,,,,,,,,Undergrad,2018,22412,,
-UK,Birmingham,,,,,,,,,Post-baccalaureate,2018,11663,,
-UK,Birmingham,52.4508,-1.9305,81,64,112,60.9,125,NA,Un;post,?,,3500,550
-UK,Durham,,,,,,,,,Undergrad,2019,14604,,
-UK,Durham,,,,,,,,,Post-baccalaureate,2019,4509,,
-UK,Durham,54.765,-1.5782,78,64.2,133,58.5,250,NA,Un;post,2019,,3543,90
-UK,Glasgow,,,,,,,,,Undergrad,2019,19515,,
-UK,Glasgow,,,,,,,,,Post-baccalaureate,2019,10327,,
-UK,Glasgow,55.8721,-4.2882,67,68.2,99,62.2,175,NA,Un;post,2019,,3426,130
-UK,Warwick,,,,,,,,,Undergrad,2018,15998,,
-UK,Warwick,,,,,,,,,Post-baccalaureate,2018,9799,,
-UK,Warwick,52.3793,-1.5615,62,70.4,77,64.6,125,NA,Un;post,2019,,3228,380
-UK,Leeds,,,,,,,,,Undergrad,2019,26955,,
-UK,Leeds,,,,,,,,,Post-baccalaureate,2019,10784,,
-UK,Leeds,53.8067,-1.555,93,61.7,155,57.1,125,NA,Un;post,2019,,4274,340
-UK,Edinburgh,,,,,,,,,Undergrad,2018,25951,,
-UK,Edinburgh,,,,,,,,,Post-baccalaureate,2018,15361,,
-UK,Edinburgh,55.9445,-3.1892,20,86.2,30,79.4,31,37.4,Un;post,2018,,3624,140
-UK,Manchester,,,,,,,,,Undergrad,2019,26855,,
-UK,Manchester,,,,,,,,,Post-baccalaureate,2019,13395,,
-UK,Manchester,53.4668,-2.2339,27,82.7,55,69.7,33,36.9,Un;post,2019,,5000,560
-UK,Sussex,,,,,,,,,Undergrad,2019,14619,,
-UK,Sussex,,,,,,,,,Post-baccalaureate,2019,4794,,
-UK,Sussex,50.8671,-0.0879,246,38.4,146,57.4,175,NA,Un;post,2019,,1796,130
-UK,St Andrews,,,,,,,,,Undergrad,2019,7442,,
-UK,St Andrews,,,,,,,,,Post-baccalaureate,2019,1782,,
-UK,St Andrews,56.3417,-2.7943,100,59.9,198,53.8,350,NA,Un;post,?,,900,30
-UK,Liverpool,,,,,,,,,Undergrad,2019,22735,,
-UK,Liverpool,,,,,,,,,Post-baccalaureate,2019,6960,,
-UK,Liverpool,53.4048,-2.9653,181,46.3,165,56.3,125,NA,Un;post,2015,,3200,220
-UK,Bristol,,,,,,,,,Undergrad,2019,20304,,
-UK,Bristol,,,,,,,,,Post-baccalaureate,2019,7202,,
-UK,Bristol,51.4584,-2.603,49,74.5,87,63.2,64,29.9,Un;post,?,,2100,180
-UK,Southampton,,,,,,,,,Undergrad,2019,15790,,
-UK,Southampton,,,,,,,,,Post-baccalaureate,2019,6925,,
-UK,Southampton,50.9351,-1.3958,97,60.6,122,59.8,125,NA,Un;post,2015,,2000,210
-UK,Newcastle,,,,,,,,,Undergrad,2019,20845,,
-UK,Newcastle,,,,,,,,,Post-baccalaureate,2019,6365,,
-UK,Newcastle,54.9792,-1.6147,146,50.9,225,NA,250,NA,Un;post,?,,1800,180
-UK,Nottingham,,,,,,,,,Undergrad,2019,24587,,
-UK,Nottingham,,,,,,,,,Post-baccalaureate,2019,9411,,
-UK,Nottingham,52.9386,-1.1952,96,60.8,152,57.2,125,NA,Un;post,2015,,2800,410
-Canada,Canada Total,,,,,,,,,Undergrad,2018,985689,,
-Canada,Canada Total,,,,,,,,,Post-baccalaureate,2018,257259,,
-Canada,Canada Total,,,,,,,,,Un;post,2017,,74260,50800
-Canada,Toronto,,,,,,,,,Undergrad,2019,71800,,
-Canada,Toronto,,,,,,,,,Post-baccalaureate,2019,20200,,
-Canada,Toronto,43.6629,-79.3957,29,82.1,18,85.5,24,41.4,Un;post,2019,,13845,3510
-Canada,McGill,,,,,,,,,Undergrad,2019,27432,,
-Canada,McGill,,,,,,,,,Post-baccalaureate,2019,9491,,
-Canada,McGill,45.5048,-73.5772,35,80.4,42,74.3,90,27.1,Un;post,2019,,3119,1370
-Canada,UBC,,,,,,,,,Undergrad,2019,50182,,
-Canada,UBC,,,,,,,,,Post-baccalaureate,2019,11365,,
-Canada,UBC,49.2606,-123.246,51,74.1,34,76.3,35,36.2,Un;post,2017,,4929,2330
-Canada,Waterloo,,,,,,,,,Undergrad,2019,34600,,
-Canada,Waterloo,,,,,,,,,Post-baccalaureate,2019,6200,,
-Canada,Waterloo,43.4723,-80.5449,173,46.8,225,NA,175,NA,Un;post,2018,,12593,1580
-Canada,McMaster,,,,,,,,,Undergrad,2019,30100,,
-Canada,McMaster,,,,,,,,,Post-baccalaureate,2019,4940,,
-Canada,McMaster,43.2609,-79.9192,140,51.2,72,65.4,90,27.1,Un;post,2017,,2068,1540
-Canada,Ottawa,,,,,,,,,Undergrad,2019,36600,,
-Canada,Ottawa,,,,,,,,,Post-baccalaureate,2019,7700,,
-Canada,Ottawa,45.4231,-75.6831,281,35.2,141,57.9,175,NA,Un;post,2019,,2200,1870
-Canada,Calgary,,,,,,,,,Undergrad,2019,27443,,
-Canada,Calgary,,,,,,,,,Post-baccalaureate,2019,6793,,
-Canada,Calgary,51.0776,-114.1407,233,39.7,225,NA,175,NA,Un;post,2016,,800,1400
-Canada,Alberta,,,,,,,,,Undergrad,2019,31698,,
-Canada,Alberta,,,,,,,,,Post-baccalaureate,2019,8240,,
-Canada,Alberta,53.5232,-113.5263,113,57.3,136,58.2,125,NA,Un;post,2016,,3072,1620
-Canada,Montreal,,,,,,,,,Undergrad,2019,33978,,
-Canada,Montreal,,,,,,,,,Post-baccalaureate,2019,12921,,
-Canada,Montreal,45.5056,-73.6138,137,52,85,63.4,175,NA,Un;post,?,,2800,1880
-Canada,Simon Fraser,,,,,,,,,Undergrad,2019,25425,,
-Canada,Simon Fraser,,,,,,,,,Post-baccalaureate,2019,4829,,
-Canada,Simon Fraser,49.2781,-122.9199,314,33.4,275,NA,350,NA,Un;post,2019,,3012,1220
-Australia,Australia Total,,,,,,,,,Undergrad,2018,1057934,,
-Australia,Australia Total,,,,,,,,,Post-baccalaureate,2018,456845,,
-Australia,Australia Total,,,,,,,,,Un;post,2018,,158319,18800
-Australia,Melbourne,,,,,,,,,Undergrad,2018,30431,,
-Australia,Melbourne,,,,,,,,,Post-baccalaureate,2018,37009,,
-Australia,Melbourne,-37.7983,144.961,38,79.5,32,77.8,41,35.7,Un;post,2019,,3900,810
-Australia,ANU,,,,,,,,,Undergrad,2018,13478,,
-Australia,ANU,,,,,,,,,Post-baccalaureate,2018,12852,,
-Australia,ANU,-35.2777,149.1185,29,82.1,50,72.1,76,28.3,Un;post,2019,,1500,310
-Australia,Sydney,,,,,,,,,Undergrad,2018,35974,,
-Australia,Sydney,,,,,,,,,Post-baccalaureate,2018,29568,,
-Australia,Sydney,-33.8886,151.1873,42,77.8,60,69.3,80,27.9,Un;post,2019,,3400,830
-Australia,Queensland,,,,,,,,,Undergrad,2018,34008,,
-Australia,Queensland,,,,,,,,,Post-baccalaureate,2018,18620,,
-Australia,Queensland,-27.4975,153.0137,47,75.7,66,67.4,54,31.8,Un;post,2019,,3200,660
-Australia,Monash,,,,,,,,,Undergrad,2018,54361,,
-Australia,Monash,,,,,,,,,Post-baccalaureate,2018,28701,,
-Australia,Monash,-37.9139,145.1317,58,70.9,75,64.7,73,28.4,Un;post,2019,,6100,870
-Australia,UNSW Sydney,,,,,,,,,Undergrad,2018,36817,,
-Australia,UNSW Sydney,,,,,,,,,Post-baccalaureate,2018,24097,,
-Australia,UNSW Sydney,-33.9173,151.2313,43,77.1,71,65.9,94,27,Un;post,2019,,3600,750
-Australia,Adelaide,,,,,,,,,Undergrad,2018,19284,,
-Australia,Adelaide,,,,,,,,,Post-baccalaureate,2018,7391,,
-Australia,Adelaide,-34.9206,138.6062,106,58.6,120,59.9,125,NA,Un;post,2019,,1900,320
-Australia,Western Australia,,,,,,,,,Undergrad,2018,14630,,
-Australia,Western Australia,,,,,,,,,Post-baccalaureate,2018,9591,,
-Australia,Western Australia,-31.9801,115.8179,86,62.9,131,58.7,99,26.2,Un;post,2019,,1400,310
-Australia,QUT,,,,,,,,,Undergrad,2018,39044,,
-Australia,QUT,,,,,,,,,Post-baccalaureate,2018,11025,,
-Australia,QUT,-27.4728,153.0235,224,40.7,179,55.2,350,NA,Un;post,2019,,2000,690
-Australia,Canberra,,,,,,,,,Undergrad,2018,12419,,
-Australia,Canberra,,,,,,,,,Post-baccalaureate,2018,3496,,
-Australia,Canberra,-35.2384,149.0843,484,24.5,193,54.1,650,NA,Un;post,2019,,1000,200
-Australia,Curtin,,,,,,,,,Undergrad,2018,38715,,
-Australia,Curtin,,,,,,,,,Post-baccalaureate,2018,8020,,
-Australia,Curtin,-32.0047,115.8941,230,39.9,275,NA,250,NA,Un;post,2019,,4300,520
-Australia,Technology Sydney,,,,,,,,,Undergrad,2018,31521,,
-Australia,Technology Sydney,,,,,,,,,Post-baccalaureate,2018,12839,,
-Australia,Technology Sydney,-33.8832,151.2005,140,51.2,194,54,250,NA,Un;post,2019,,2800,530
-Australia,Macquarie,,,,,,,,,Undergrad,2018,31938,,
-Australia,Macquarie,,,,,,,,,Post-baccalaureate,2018,11465,,
-Australia,Macquarie,-33.7738,151.1126,237,39.5,225,NA,250,NA,Un;post,2019,,2800,520
+Country,School,City,Latitude,Longitude,2020 QS Ranking,2020 QS Score,2020 THE Ranking,2020 THE Score,2019 ARWU Ranking,2019 ARWU Score,System,Date,Total student number,Overseas Chinese student number,Domestic Chinese student number
+US,US Total,,,,,,,,,,Undergrad,2018,21900000,,
+US,US Total,,,,,,,,,,Post-baccalaureate,2016,2972000,,
+US,US Total,,,,,,,,,,Un;post,2019,,282276,587200
+US,Stanford,,,,,,,,,,Undergrad,2019,6996,,
+US,Stanford,,,,,,,,,,Post-baccalaureate,2019,9390,,
+US,Stanford,"Stanford, California",37.4275,-122.1697,2,98.4,4,94.3,2,75.1,Un;post,2018,,1255,360
+US,MIT,,,,,,,,,,Undergrad,2019,4530,,
+US,MIT,,,,,,,,,,Post-baccalaureate,2019,6990,,
+US,MIT,"Cambridge, Massachusetts",42.3601,-71.0942,1,100,5,93.6,4,69,Un;post,2018,,839,250
+US,Yale,,,,,,,,,,Undergrad,2019,5964,,
+US,Yale,,,,,,,,,,Post-baccalaureate,2019,7469,,
+US,Yale,"New Haven, Connecticut",41.3163,-72.9223,17,87.7,8,91.7,11,50.8,Un;post,2018,,799,290
+US,NYU,,,,,,,,,,Undergrad,2019,26733,,
+US,NYU,,,,,,,,,,Post-baccalaureate,2019,25000,,
+US,NYU,"New York City, New York",40.7295,-73.9965,39,78.8,29,81.1,30,38.1,Un;post,2018,,5632,1020
+US,Harvard,,,,,,,,,,Undergrad,2019,6700,,
+US,Harvard,,,,,,,,,,Post-baccalaureate,2019,15250,,
+US,Harvard,"Cambridge, Massachusetts",42.377,-71.1167,3,97.4,7,93,1,100,Un;post,2018,,1301,470
+US,Berkeley,,,,,,,,,,Undergrad,2019,30853,,
+US,Berkeley,,,,,,,,,,Post-baccalaureate,2019,11666,,
+US,Berkeley,"Berkeley, California",37.8719,-122.2585,28,82.6,13,88.3,5,67.9,Un;post,2018,,2909,910
+US,Columbia,,,,,,,,,,Undergrad,2019,9001,,
+US,Columbia,,,,,,,,,,Post-baccalaureate,2019,16217,,
+US,Columbia,"New York City, New York",40.8075,-73.9626,18,87.4,16,87,8,59.1,Un;post,2018,,5228,520
+US,UCLA,,,,,,,,,,Undergrad,2019,31568,,
+US,UCLA,,,,,,,,,,Post-baccalaureate,2019,12960,,
+US,UCLA,"Los Angeles, California",34.0689,-118.4452,35,80.4,17,86.8,11,50.8,Un;post,2018,,3406,960
+US,Cornell,,,,,,,,,,Undergrad,2019,15043,,
+US,Cornell,,,,,,,,,,Post-baccalaureate,2019,6284,,
+US,Cornell,"Ithaca, New York",42.4534,-76.4735,14,89.3,19,85.1,13,49.8,Un;post,2018,,2221,460
+US,Brown,,,,,,,,,,Undergrad,2019,6752,,
+US,Brown,,,,,,,,,,Post-baccalaureate,2019,2584,,
+US,Brown,"Providence, Rhode Island",41.8268,-71.4025,57,71.5,53,70,84,27.6,Un;post,2018,,621,200
+US,Princeton,,,,,,,,,,Undergrad,2019,5267,,
+US,Princeton,,,,,,,,,,Post-baccalaureate,2019,2946,,
+US,Princeton,"Princeton, New Jersey",40.3431,-74.6551,13,90.9,6,93.2,6,60,Un;post,2018,,452,170
+US,Dartmouth,,,,,,,,,,Undergrad,2019,4400,,
+US,Dartmouth,,,,,,,,,,Post-baccalaureate,2019,2100,,
+US,Dartmouth,"Hanover, New Hampshire",43.7044,-72.2887,207,43.1,94,62.4,350,NA,Un;post,2018,,452,140
+US,Penn,,,,,,,,,,Undergrad,2019,10234,,
+US,Penn,,,,,,,,,,Post-baccalaureate,2019,14803,,
+US,Penn,"Philadelphia, Pennsylvania",39.9522,-75.1932,15,88.9,11,89.6,17,47.3,Un;post,2018,,2030,530
+US,USC,,,,,,,,,,Undergrad,2019,20500,,
+US,USC,,,,,,,,,,Post-baccalaureate,2019,28000,,
+US,USC,"Los Angeles, California",34.0224,-118.2851,129,53.1,62,68.1,55,31.7,Un;post,2018,,5480,1040
+US,UIUC,,,,,,,,,,Undergrad,2018,33673,,
+US,UIUC,,,,,,,,,,Post-baccalaureate,2018,15666,,
+US,UIUC,"Urbana and Champaign, Illinois",40.102,-88.2272,75,65.9,48,72.9,38,35.8,Un;post,2018,,6295,1030
+US,Purdue,,,,,,,,,,Undergrad,2018,32672,,
+US,Purdue,,,,,,,,,,Post-baccalaureate,2018,10739,,
+US,Purdue,"West Lafayette, Indiana",40.4237,-86.9212,111,57.8,88,63.1,72,28.5,?,2014,,4617,920
+US,Boston,,,,,,,,,,Undergrad,2019,17286,,
+US,Boston,,,,,,,,,,Post-baccalaureate,2019,15997,,
+US,Boston,"Boston, Massachusetts",42.3505,-71.1054,98,60.5,61,68.5,76,28.3,Un;post,2018,,3802,640
+US,Duke,,,,,,,,,,Undergrad,2019,6526,,
+US,Duke,,,,,,,,,,Post-baccalaureate,2019,9108,,
+US,Duke,"Durham, North Carolina",36.0014,-78.9382,25,83.8,20,84,28,38.6,Un;post,2018,,1585,340
+US,Caltech,,,,,,,,,,Undergrad,2019,938,,
+US,Caltech,,,,,,,,,,Post-baccalaureate,2019,1299,,
+US,Caltech,"Pasadena, California",34.1377,-118.1253,5,96.9,2,94.5,9,58.6,Un;post,2018,,195,50
+US,Georgetown,,,,,,,,,,Undergrad,2019,7459,,
+US,Georgetown,,,,,,,,,,Post-baccalaureate,2019,11745,,
+US,Georgetown,"Washington, D.C.",38.9076,-77.0723,226,40.1,102,61.9,350,NA,Un;post,2018,,1154,400
+US,Ohio State,,,,,,,,,,Undergrad,2018,46820,,
+US,Ohio State,,,,,,,,,,Post-baccalaureate,2018,14350,,
+US,Ohio State,"Columbus, Ohio",40.0068,-83.0306,101,59.5,70,66.1,100,26,Un;post,2018,,4150,1370
+US,Michigan State,,,,,,,,,,Undergrad,2019,39176,,
+US,Michigan State,,,,,,,,,,Post-baccalaureate,2019,10633,,
+US,Michigan State,"East Lansing, Michigan",42.7018,-84.4822,144,51.1,84,63.9,125,NA,Un;post,2018,,4412,1100
+UK,UK Total,,,,,,,,,,Undergrad,2019,1800000,,
+UK,UK Total,,,,,,,,,,Post-baccalaureate,2019,590000,,
+UK,UK Total,,,,,,,,,,Un;post,2019,,120385,28200
+UK,Oxford,,,,,,,,,,Undergrad,2018,11930,,
+UK,Oxford,,,,,,,,,,Post-baccalaureate,2018,11813,,
+UK,Oxford,"Oxford, England",51.7548,-1.2544,4,97.2,1,95.4,7,59.7,Un;post,2018,,991,190
+UK,Cambridge,,,,,,,,,,Undergrad,2019,12354,,
+UK,Cambridge,,,,,,,,,,Post-baccalaureate,2019,10893,,
+UK,Cambridge,"Cambridge, England",52.2043,0.1149,7,95,3,94.4,3,72.3,Un;post,2019,,1464,220
+UK,UCL,,,,,,,,,,Undergrad,2019,19994,,
+UK,UCL,,,,,,,,,,Post-baccalaureate,2019,23842,,
+UK,UCL,"London, UK",51.5246,-0.134,8,94.8,15,87.1,15,47.9,Un;post,2019,,9930,670
+UK,LSE,,,,,,,,,,Undergrad,2018,5348,,
+UK,LSE,,,,,,,,,,Post-baccalaureate,2018,5983,,
+UK,LSE,"London, UK",51.5144,-0.1165,44,77,27,81.3,175,NA,Un;post,2018,,1482,150
+UK,KCL,,,,,,,,,,Undergrad,?,18500,,
+UK,KCL,,,,,,,,,,Post-baccalaureate,?,12800,,
+UK,KCL,"London, UK",51.5115,-0.116,33,80.5,36,75.7,51,32.4,Undergrad,2015,,2191,490
+UK,Imperial,,,,,,,,,,Undergrad,2018,10054,,
+UK,Imperial,,,,,,,,,,Post-baccalaureate,2018,7514,,
+UK,Imperial,"London, UK",51.4988,-0.1749,9,94.1,10,89.8,23,41.6,Un;post,2018,,2400,330
+UK,Exeter,,,,,,,,,,Undergrad,2019,19764,,
+UK,Exeter,,,,,,,,,,Post-baccalaureate,2019,5499,,
+UK,Exeter,"Exeter, South West England",50.7371,-3.5351,163,48.1,146,57.4,175,NA,Un;post,2013,,2016,90
+UK,Sheffield,,,,,,,,,,Undergrad,2018,29666,,
+UK,Sheffield,,,,,,,,,,Post-baccalaureate,2018,10492,,
+UK,Sheffield,"Sheffield, England",53.3809,-1.4879,78,64.2,117,60.1,125,NA,Un;post,2019,,5874,230
+UK,York,,,,,,,,,,Undergrad,2019,13690,,
+UK,York,,,,,,,,,,Post-baccalaureate,2019,5235,,
+UK,York,"Heslington, England",53.9461,-1.0518,148,50.5,128,58.9,350,NA,Un;post,?,,2065,120
+UK,Birmingham,,,,,,,,,,Undergrad,2018,22412,,
+UK,Birmingham,,,,,,,,,,Post-baccalaureate,2018,11663,,
+UK,Birmingham,"Birmingham, West Midlands",52.4508,-1.9305,81,64,112,60.9,125,NA,Un;post,?,,3500,550
+UK,Durham,,,,,,,,,,Undergrad,2019,14604,,
+UK,Durham,,,,,,,,,,Post-baccalaureate,2019,4509,,
+UK,Durham,"Durham, England",54.765,-1.5782,78,64.2,133,58.5,250,NA,Un;post,2019,,3543,90
+UK,Glasgow,,,,,,,,,,Undergrad,2019,19515,,
+UK,Glasgow,,,,,,,,,,Post-baccalaureate,2019,10327,,
+UK,Glasgow,"Glasgow, Scotland",55.8721,-4.2882,67,68.2,99,62.2,175,NA,Un;post,2019,,3426,130
+UK,Warwick,,,,,,,,,,Undergrad,2018,15998,,
+UK,Warwick,,,,,,,,,,Post-baccalaureate,2018,9799,,
+UK,Warwick,"Coventry, England",52.3793,-1.5615,62,70.4,77,64.6,125,NA,Un;post,2019,,3228,380
+UK,Leeds,,,,,,,,,,Undergrad,2019,26955,,
+UK,Leeds,,,,,,,,,,Post-baccalaureate,2019,10784,,
+UK,Leeds,"Leeds, England",53.8067,-1.555,93,61.7,155,57.1,125,NA,Un;post,2019,,4274,340
+UK,Edinburgh,,,,,,,,,,Undergrad,2018,25951,,
+UK,Edinburgh,,,,,,,,,,Post-baccalaureate,2018,15361,,
+UK,Edinburgh,"Edinburgh, Scotland",55.9445,-3.1892,20,86.2,30,79.4,31,37.4,Un;post,2018,,3624,140
+UK,Manchester,,,,,,,,,,Undergrad,2019,26855,,
+UK,Manchester,,,,,,,,,,Post-baccalaureate,2019,13395,,
+UK,Manchester,"Manchester, England",53.4668,-2.2339,27,82.7,55,69.7,33,36.9,Un;post,2019,,5000,560
+UK,Sussex,,,,,,,,,,Undergrad,2019,14619,,
+UK,Sussex,,,,,,,,,,Post-baccalaureate,2019,4794,,
+UK,Sussex,"Falmer, England",50.8671,-0.0879,246,38.4,146,57.4,175,NA,Un;post,2019,,1796,130
+UK,St Andrews,,,,,,,,,,Undergrad,2019,7442,,
+UK,St Andrews,,,,,,,,,,Post-baccalaureate,2019,1782,,
+UK,St Andrews,"St Andrews, Scotland",56.3417,-2.7943,100,59.9,198,53.8,350,NA,Un;post,?,,900,30
+UK,Liverpool,,,,,,,,,,Undergrad,2019,22735,,
+UK,Liverpool,,,,,,,,,,Post-baccalaureate,2019,6960,,
+UK,Liverpool,"Liverpool, England",53.4048,-2.9653,181,46.3,165,56.3,125,NA,Un;post,2015,,3200,220
+UK,Bristol,,,,,,,,,,Undergrad,2019,20304,,
+UK,Bristol,,,,,,,,,,Post-baccalaureate,2019,7202,,
+UK,Bristol,"Bristol, England",51.4584,-2.603,49,74.5,87,63.2,64,29.9,Un;post,?,,2100,180
+UK,Southampton,,,,,,,,,,Undergrad,2019,15790,,
+UK,Southampton,,,,,,,,,,Post-baccalaureate,2019,6925,,
+UK,Southampton,"Southampton, England",50.9351,-1.3958,97,60.6,122,59.8,125,NA,Un;post,2015,,2000,210
+UK,Newcastle,,,,,,,,,,Undergrad,2019,20845,,
+UK,Newcastle,,,,,,,,,,Post-baccalaureate,2019,6365,,
+UK,Newcastle,"Newcastle upon Tyne, England",54.9792,-1.6147,146,50.9,225,NA,250,NA,Un;post,?,,1800,180
+UK,Nottingham,,,,,,,,,,Undergrad,2019,24587,,
+UK,Nottingham,,,,,,,,,,Post-baccalaureate,2019,9411,,
+UK,Nottingham,"Nottingham, England",52.9386,-1.1952,96,60.8,152,57.2,125,NA,Un;post,2015,,2800,410
+Canada,Canada Total,,,,,,,,,,Undergrad,2018,985689,,
+Canada,Canada Total,,,,,,,,,,Post-baccalaureate,2018,257259,,
+Canada,Canada Total,,,,,,,,,,Un;post,2017,,74260,50800
+Canada,Toronto,,,,,,,,,,Undergrad,2019,71800,,
+Canada,Toronto,,,,,,,,,,Post-baccalaureate,2019,20200,,
+Canada,Toronto,"Toronto, Ontario",43.6629,-79.3957,29,82.1,18,85.5,24,41.4,Un;post,2019,,13845,3510
+Canada,McGill,,,,,,,,,,Undergrad,2019,27432,,
+Canada,McGill,,,,,,,,,,Post-baccalaureate,2019,9491,,
+Canada,McGill,"Montreal, Quebec",45.5048,-73.5772,35,80.4,42,74.3,90,27.1,Un;post,2019,,3119,1370
+Canada,UBC,,,,,,,,,,Undergrad,2019,50182,,
+Canada,UBC,,,,,,,,,,Post-baccalaureate,2019,11365,,
+Canada,UBC,"Vancouver, British Columbia",49.2606,-123.246,51,74.1,34,76.3,35,36.2,Un;post,2017,,4929,2330
+Canada,Waterloo,,,,,,,,,,Undergrad,2019,34600,,
+Canada,Waterloo,,,,,,,,,,Post-baccalaureate,2019,6200,,
+Canada,Waterloo,"Waterloo, Ontario",43.4723,-80.5449,173,46.8,225,NA,175,NA,Un;post,2018,,12593,1580
+Canada,McMaster,,,,,,,,,,Undergrad,2019,30100,,
+Canada,McMaster,,,,,,,,,,Post-baccalaureate,2019,4940,,
+Canada,McMaster,"Hamilton, Ontario",43.2609,-79.9192,140,51.2,72,65.4,90,27.1,Un;post,2017,,2068,1540
+Canada,Ottawa,,,,,,,,,,Undergrad,2019,36600,,
+Canada,Ottawa,,,,,,,,,,Post-baccalaureate,2019,7700,,
+Canada,Ottawa,"Ottawa, Ontario",45.4231,-75.6831,281,35.2,141,57.9,175,NA,Un;post,2019,,2200,1870
+Canada,Calgary,,,,,,,,,,Undergrad,2019,27443,,
+Canada,Calgary,,,,,,,,,,Post-baccalaureate,2019,6793,,
+Canada,Calgary,"Calgary, Alberta",51.0776,-114.1407,233,39.7,225,NA,175,NA,Un;post,2016,,800,1400
+Canada,Alberta,,,,,,,,,,Undergrad,2019,31698,,
+Canada,Alberta,,,,,,,,,,Post-baccalaureate,2019,8240,,
+Canada,Alberta,"Edmonton, Alberta",53.5232,-113.5263,113,57.3,136,58.2,125,NA,Un;post,2016,,3072,1620
+Canada,Montreal,,,,,,,,,,Undergrad,2019,33978,,
+Canada,Montreal,,,,,,,,,,Post-baccalaureate,2019,12921,,
+Canada,Montreal,"Montreal, Quebec",45.5056,-73.6138,137,52,85,63.4,175,NA,Un;post,?,,2800,1880
+Canada,Simon Fraser,,,,,,,,,,Undergrad,2019,25425,,
+Canada,Simon Fraser,,,,,,,,,,Post-baccalaureate,2019,4829,,
+Canada,Simon Fraser,"Burnaby, British Columbia",49.2781,-122.9199,314,33.4,275,NA,350,NA,Un;post,2019,,3012,1220
+Australia,Australia Total,,,,,,,,,,Undergrad,2018,1057934,,
+Australia,Australia Total,,,,,,,,,,Post-baccalaureate,2018,456845,,
+Australia,Australia Total,,,,,,,,,,Un;post,2018,,158319,18800
+Australia,Melbourne,,,,,,,,,,Undergrad,2018,30431,,
+Australia,Melbourne,,,,,,,,,,Post-baccalaureate,2018,37009,,
+Australia,Melbourne,"Melbourne, Victoria",-37.7983,144.961,38,79.5,32,77.8,41,35.7,Un;post,2019,,3900,810
+Australia,ANU,,,,,,,,,,Undergrad,2018,13478,,
+Australia,ANU,,,,,,,,,,Post-baccalaureate,2018,12852,,
+Australia,ANU,"Acton, ACT",-35.2777,149.1185,29,82.1,50,72.1,76,28.3,Un;post,2019,,1500,310
+Australia,Sydney,,,,,,,,,,Undergrad,2018,35974,,
+Australia,Sydney,,,,,,,,,,Post-baccalaureate,2018,29568,,
+Australia,Sydney,"Sydney, NSW",-33.8886,151.1873,42,77.8,60,69.3,80,27.9,Un;post,2019,,3400,830
+Australia,Queensland,,,,,,,,,,Undergrad,2018,34008,,
+Australia,Queensland,,,,,,,,,,Post-baccalaureate,2018,18620,,
+Australia,Queensland,"Brisbane, Queensland",-27.4975,153.0137,47,75.7,66,67.4,54,31.8,Un;post,2019,,3200,660
+Australia,Monash,,,,,,,,,,Undergrad,2018,54361,,
+Australia,Monash,,,,,,,,,,Post-baccalaureate,2018,28701,,
+Australia,Monash,"Melbourne, Victoria",-37.9139,145.1317,58,70.9,75,64.7,73,28.4,Un;post,2019,,6100,870
+Australia,UNSW Sydney,,,,,,,,,,Undergrad,2018,36817,,
+Australia,UNSW Sydney,,,,,,,,,,Post-baccalaureate,2018,24097,,
+Australia,UNSW Sydney,"Sydney, NSW",-33.9173,151.2313,43,77.1,71,65.9,94,27,Un;post,2019,,3600,750
+Australia,Adelaide,,,,,,,,,,Undergrad,2018,19284,,
+Australia,Adelaide,,,,,,,,,,Post-baccalaureate,2018,7391,,
+Australia,Adelaide,"Adelaide, South Australia",-34.9206,138.6062,106,58.6,120,59.9,125,NA,Un;post,2019,,1900,320
+Australia,Western Australia,,,,,,,,,,Undergrad,2018,14630,,
+Australia,Western Australia,,,,,,,,,,Post-baccalaureate,2018,9591,,
+Australia,Western Australia,"Perth, Western Australia",-31.9801,115.8179,86,62.9,131,58.7,99,26.2,Un;post,2019,,1400,310
+Australia,QUT,,,,,,,,,,Undergrad,2018,39044,,
+Australia,QUT,,,,,,,,,,Post-baccalaureate,2018,11025,,
+Australia,QUT,"Brisbane, Queensland",-27.4728,153.0235,224,40.7,179,55.2,350,NA,Un;post,2019,,2000,690
+Australia,Canberra,,,,,,,,,,Undergrad,2018,12419,,
+Australia,Canberra,,,,,,,,,,Post-baccalaureate,2018,3496,,
+Australia,Canberra,"Canberra, ACT",-35.2384,149.0843,484,24.5,193,54.1,650,NA,Un;post,2019,,1000,200
+Australia,Curtin,,,,,,,,,,Undergrad,2018,38715,,
+Australia,Curtin,,,,,,,,,,Post-baccalaureate,2018,8020,,
+Australia,Curtin,"Perth, Western Australia",-32.0047,115.8941,230,39.9,275,NA,250,NA,Un;post,2019,,4300,520
+Australia,Technology Sydney,,,,,,,,,,Undergrad,2018,31521,,
+Australia,Technology Sydney,,,,,,,,,,Post-baccalaureate,2018,12839,,
+Australia,Technology Sydney,"Sydney, NSW",-33.8832,151.2005,140,51.2,194,54,250,NA,Un;post,2019,,2800,530
+Australia,Macquarie,,,,,,,,,,Undergrad,2018,31938,,
+Australia,Macquarie,,,,,,,,,,Post-baccalaureate,2018,11465,,
+Australia,Macquarie,"Sydney, NSW",-33.7738,151.1126,237,39.5,225,NA,250,NA,Un;post,2019,,2800,520
